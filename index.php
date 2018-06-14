@@ -13,7 +13,7 @@ and open the template in the editor.
 
         <h2>Welcome on Ated</h2
 
-        <p><img src='' alt='ated' class='accueil' ></p>
+        <p><img src='img/1.jpg' alt='ated' class='accueil' ></p>
 
 </body>
 </html>
